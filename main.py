@@ -10,6 +10,7 @@ print(f"Boa noite, meu nome é {nome} e minha idade é: {idade}")
 dobro = idade * 2
 
 print("o dobro da idade é {}" .format (dobro))
+print("o dobro da idade é {}" .format (dobro))
 
 
 
