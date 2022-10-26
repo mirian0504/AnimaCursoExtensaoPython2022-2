@@ -1,27 +1,16 @@
-# meu primeiro projeto python uhuuuuu
+#2 aula
+# comando imput, quero q o usuário digite algo
 
-# print() = comando de saida
+nome = input("Digite seu nome: ")
+idade = int(input("Digite sua idade: "))
 
-print("Alo mundo!")
+#comando de saida.. exibir em tela
+print(f"Boa noite, meu nome é {nome} e minha idade é: {idade}")
 
-#qdo quiser guardar uma frase
+dobro = idade * 2
 
-nome ="Miriã"
-idade = 22
-
-print("Seu nome é " +nome )
-
-#qdo quiser exibir a frase
-
-print("Minha idade é " +str(idade) )
-
-#formatar inteiro
-print(f"Minha idade é {idade}\n")
-print("Minha idade é {}".format(idade))
-
-print("Minha idade é", +idade)
+print("o dobro da idade é {}" .format (dobro))
 
 
-print("meu nome é {} e tenho {}".format(nome, idade))
 
 
