@@ -1,16 +1,29 @@
-#2 aula
-# comando imput, quero q o usuário digite algo
 
-nome = input("Digite seu nome: ")
-idade = int(input("Digite sua idade: "))
+# exemplo de laço
 
-#comando de saida.. exibir em tela
-print(f"Boa noite, meu nome é {nome} e minha idade é: {idade}")
+#se eu quisesse exiir numero de 1 a 10
+print("Aqui mostramos de maneira rústica")
+print("1")
+print("2")
+print("3")
+print("4")
 
-dobro = idade * 2
+print("Aqui está certo")
 
-print("o dobro da idade é {}" .format (dobro))
-print("o dobro da idade é {}" .format (dobro))
+numero = 1
+print(numero)
+numero = numero +1
+print(numero)
+
+  
+
+  
+
+
+
+
+
+
 
 
 
